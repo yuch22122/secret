@@ -48,7 +48,7 @@ obj= {
 
         "valid": true,
 
-        "linkStatus": "linked-nologin"
+        "linkStatus": "linked-login"
 
       }
 
